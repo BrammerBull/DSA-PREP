@@ -1,5 +1,7 @@
 package Sorting;
 
+import java.util.Arrays;
+
 public class BubbleSorting {
     
 	static void bubbleSort(int arr[], int n)
@@ -29,10 +31,12 @@ public class BubbleSorting {
 	// Function to print an array
 	static void printArray(int arr[], int size)
 	{
-		int i;
-		for (i = 0; i < size; i++)
-			System.out.print(arr[i] + " ");
-		System.out.println();
+		// int i;
+		// for (i = 0; i < size; i++)
+		// 	System.out.print(arr[i] + " ");
+		// System.out.println();
+		 System.out.println(Arrays.toString(arr));
+		
 	}
 
 	public static void main(String args[])
