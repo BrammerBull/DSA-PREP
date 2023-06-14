@@ -1,4 +1,4 @@
-package Searching;
+package Linear_Search;
 
 //Here we will be finding Numbers with Even number of Digits
 

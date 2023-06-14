@@ -1,4 +1,4 @@
-package Searching;
+package Linear_Search;
 // If x is present then return its location, otherwise
 // return -1
  public class LinearSearch {
