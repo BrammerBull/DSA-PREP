@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "productOfDigits",
+            "request": "launch",
+            "mainClass": "productOfDigits",
+            "projectName": "DSA prep_32a01012"
+        },
+        {
+            "type": "java",
+            "name": "sumOfDigits",
+            "request": "launch",
+            "mainClass": "sumOfDigits",
+            "projectName": "DSA prep_32a01012"
+        },
+        {
+            "type": "java",
             "name": "LinearSearch",
             "request": "launch",
             "mainClass": "Searching.LinearSearch",
