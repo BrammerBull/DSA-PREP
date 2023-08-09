@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountZeroes",
+            "request": "launch",
+            "mainClass": "CountZeroes",
+            "projectName": "DSA prep_32a01012"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "DSA prep_32a01012"
+        },
+        {
+            "type": "java",
             "name": "productOfDigits",
             "request": "launch",
             "mainClass": "productOfDigits",
