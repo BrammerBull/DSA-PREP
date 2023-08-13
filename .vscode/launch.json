@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RotatedBinaryS",
+            "request": "launch",
+            "mainClass": "RotatedBinaryS",
+            "projectName": "DSA prep_32a01012"
+        },
+        {
+            "type": "java",
+            "name": "RotatedBinarySearch",
+            "request": "launch",
+            "mainClass": "RotatedBinarySearch",
+            "projectName": "DSA prep_32a01012"
+        },
+        {
+            "type": "java",
+            "name": "RepeatedElements",
+            "request": "launch",
+            "mainClass": "RepeatedElements",
+            "projectName": "DSA prep_32a01012"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "DSA prep_32a01012"
+        },
+        {
+            "type": "java",
+            "name": "SortedArray",
+            "request": "launch",
+            "mainClass": "SortedArray",
+            "projectName": "DSA prep_32a01012"
+        },
+        {
+            "type": "java",
             "name": "CountZeroes",
             "request": "launch",
             "mainClass": "CountZeroes",
