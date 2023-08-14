@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeSorting",
+            "request": "launch",
+            "mainClass": "Sorting.MergeSorting",
+            "projectName": "DSA prep_32a01012"
+        },
+        {
+            "type": "java",
             "name": "RotatedBinaryS",
             "request": "launch",
             "mainClass": "RotatedBinaryS",
