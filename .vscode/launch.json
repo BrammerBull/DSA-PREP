@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DLL",
+            "request": "launch",
+            "mainClass": "DLL",
+            "projectName": "DSA prep_32a01012"
+        },
+        {
+            "type": "java",
             "name": "SLL",
             "request": "launch",
             "mainClass": "SLL",
